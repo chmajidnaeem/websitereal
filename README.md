@@ -1,40 +1,48 @@
-# Nextjs Animated Slider 🚀
 
-Stunning animated slider website built using Next.js, Framer Motion, and Tailwind CSS.
+# Getting Started
 
-<img alt="Nextjs Animated Slider"  src="https://github.com/K-H-Rayhan/nextjs-animated-slider/assets/83538046/676e87e0-0988-4431-9c3d-354635faca93" width="100%" />
+# Project Overview 
 
-## 🖥 Demo
 
-Check out a [live demo](https://nextjs-animated-slider.vercel.app/).
+The DNK project combines Next.js, Tailwind CSS, and a chatbot to deliver an interactive web experience. The chatbot is designed to handle common inquiries and guide users, improving engagement and providing instant support. Tailwind CSS enhances the interface with a responsive and modern design.
 
-## 📦 Installation
+Key Objectives
+Deliver an intuitive, user-friendly interface using Tailwind CSS.
+Offer interactive and automated support through a chatbot.
+Ensure performance optimization and scalability with Next.js.
+Technologies Used
+Next.js: A React-based framework for server-side rendering and static site generation.
+Tailwind CSS: A utility-first CSS framework for fast, responsive UI design.
+Chatbot Integration: Can be powered by an AI API (e.g., OpenAI) or a custom chatbot service.
+![Project snip 1](image1.png)
+![Project snip 2](image2.png)
+![Project snip 2](image3.png)
+![Project snip 1](image4.png)
+![Project snip 2](imaga5.png)
+!
 
-To go with the latest version please copy and past in your terminal the following steps: 
 
-```bash
-git clone https://github.com/K-H-Rayhan/nextjs-animated-slider.git
-```
+## Prerequisites
+- Node.js and yarn/bun installed
+- NextJS
+- Tailwind CSS
+- Chatbot
 
-Run the development server:
+## Setup
+1.	Clone the Repository:
+git clone https://github.com/Ariba-memon/websitereal/tree/master
+2.	Install Dependencies: npm install
+3.	Run the Development Server:
+4.	View the Application:
+Open http://localhost:3000 in your browser to see the application in action.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
-Run the production server:
+🔧 Commands
+•	Development: npm run dev
+🛠️ Technology Stack
+•	Next.js for server-side rendering
+•	TypeScript for type safety and improved tooling
+•	Tailwind CSS for responsive and efficient styling
 
-```bash
-npm run build && npm run start
-# or
-yarn build && yarn start
-# or
-pnpm build && yarn start
-```
 
-## 🤝 Contributing
 
-Let’s create great products together! We encourage and welcome collaboration and any type of contribution.
+
